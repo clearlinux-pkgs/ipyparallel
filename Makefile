@@ -1,5 +1,5 @@
 PKG_NAME := ipyparallel
-URL = https://files.pythonhosted.org/packages/9d/d3/15024212544a74876d4000cddab15c10642e742ffd5515a65a7db1eb817f/ipyparallel-8.0.0.tar.gz
+URL = https://files.pythonhosted.org/packages/d1/94/554630b21f4180b05b956528aba69bf0d406346868945edcced8033e9806/ipyparallel-8.1.0.tar.gz
 ARCHIVES = 
 
 include ../common/Makefile.common
